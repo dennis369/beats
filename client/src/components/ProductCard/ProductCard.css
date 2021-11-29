@@ -1,0 +1,41 @@
+.card-img-top {
+    font-family: cursive;
+    margin-top: 15%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    font-family: cursive;
+    font-weight: bold;
+    width: 100%;
+    background-size: cover;
+    border-radius: 24px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    display: block;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(165, 143, 143, 0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    
+    margin-bottom: 15%;
+    
+}
+
+.card-text {
+    font-family: cursive;
+    text-align: right;
+    font-weight: bold;
+}
+
+.card-footer {
+    font-family: cursive;
+    text-align: right;
+}
+
+#heartIcon {
+    font-size: 16pt;
+    margin-left: 5%;
+}

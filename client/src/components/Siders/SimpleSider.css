@@ -1,0 +1,11 @@
+#simpleSider {
+    background-image: url(https://res.cloudinary.com/darkmusic/image/upload/v1638104349/Drum_Machine_pimdl2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 135px;
+    margin-bottom: 2%;
+    text-align: center;
+    padding-top: 30px;
+    font-family: serif;
+}

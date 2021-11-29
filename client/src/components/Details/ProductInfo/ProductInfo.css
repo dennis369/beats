@@ -1,0 +1,87 @@
+.tab-content {
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#heartIconDetails svg {
+    float: right;
+    text-shadow: 3px 3px 5px rgb(34, 31, 31);
+    font-family: cursive;
+    font-size: 34pt;
+    cursor: pointer;
+    margin-top: 22px;
+    color:#81002c;
+}
+
+.product-info-heading {
+    font-family: cursive;
+    font-weight: 500;
+    margin-left: 19px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#detailsCardText {
+    font-family: cursive;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 8px;
+    border-radius: 24px;
+    
+    
+}
+
+#details-footer {
+    font-family: cursive;
+    text-align: right;
+}
+
+#detailsProduct img {
+    
+    height: 500px;
+    object-fit: cover
+    
+    
+}
+
+.tab-pane {
+    
+    font-family: cursive;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+.snipcart-add-item { 
+    box-shadow: 14px 14px 5px -3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 14px 14px 5px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 14px 14px 5px -3px rgba(0,0,0,0.75);
+    display: flex;
+    background-color: black;
+    ;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    padding: 10px 60px;
+    border-radius: 25px;
+    margin: 10px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+.breadcrumb{
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
